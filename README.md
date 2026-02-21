@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm D.Devananda Reddy
 
-<!--
-**Deva-Data-Analyst/deva-data-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student | Aspiring Data Analyst  
+📊 Skilled in SQL, Excel, Power BI & Tableau  
+📍 Hyderabad 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##   About Me
+- Passionate  about Data Analytics & Business Intelligence
+- Completed Zomato Data Analysis Project
+- Strong interest in SQL querying and dashboard creation
+- Currently improving Statistics & Python
+
+---
+
+## 🛠️ Skills
+- SQL (MySQL)
+- Excel (Advanced formulas, Pivot Tables)
+- Power BI
+- Tableau
+- Basic Python
+- Data Cleaning & Visualization
+
+---
+
+## 📈 Projects
+### 🔹 Zomato Data Analysis
+- Analyzed restaurant ratings & performance
+- Created dashboards in Power BI
+- Wrote complex SQL queries
+
+More projects coming soon...
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/devananda-b49562353
+- Email: reddydeva97@gmail.com 
+
+
+
+
+
